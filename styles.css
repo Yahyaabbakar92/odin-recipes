@@ -1,0 +1,34 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(157, 187, 172);
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#flour {
+    height: auto;
+    width: 600px;
+}
+
+#chicken {
+    height: auto;
+    width: 600px;
+}
+
+#cake {
+    height: auto;
+    width: 600px;
+}
+
+#agua {
+    height: auto;
+    width: 600px;
+}
+
+.procedure {
+    text-decoration: underline;
+}
